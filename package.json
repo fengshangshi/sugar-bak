@@ -1,0 +1,22 @@
+{
+  "name": "sugar",
+  "version": "0.1.0",
+  "description": "",
+  "bin": "./bin/sugar",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fengshangshi/sugar.git"
+  },
+  "author": "fengshangshi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fengshangshi/sugar/issues"
+  },
+  "engines": {
+     "node": "*"
+  },
+  "homepage": "https://github.com/fengshangshi/sugar#readme"
+}
