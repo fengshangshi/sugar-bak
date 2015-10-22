@@ -1,6 +1,6 @@
 {
-  "name": "sugar",
-  "version": "0.1.0",
+  "name": "ssugar",
+  "version": "0.1.1",
   "description": "",
   "bin": "./bin/sugar",
   "scripts": {
