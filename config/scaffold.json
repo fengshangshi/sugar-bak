@@ -1,0 +1,8 @@
+{
+	"framework": {
+		"config": {
+			"type": "github",
+			"repos": "fengshangshi/sugar-template-server"
+		}
+	}
+}
