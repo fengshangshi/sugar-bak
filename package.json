@@ -1,6 +1,6 @@
 {
   "name": "ssugar",
-  "version": "0.1.13",
+  "version": "0.1.14",
   "description": "基于node和express的web开发框架",
   "bin": "./bin/sugar",
   "scripts": {
@@ -21,6 +21,6 @@
   "homepage": "https://github.com/fengshangshi/sugar#readme",
   "dependencies": {
     "fs-extra": "^0.26.0",
-    "sugar-template-scaffold": "0.0.2"
+    "sugar-template-scaffold": "0.0.3"
   }
 }
